@@ -1,1 +1,2 @@
 这里是关于softmax的基本用法，模型采用的是普通的线性层，之后会用卷积网络进行相应的优化
+数据集根据dataset.py中下载FashionMNIST数据集
